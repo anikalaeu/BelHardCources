@@ -8,6 +8,7 @@ public class FirstMain {   //объявление класса
 
 
         var i = 6 * 7;
+
         System.out.println("Hello World!!!");
         System.out.println("The answer is " + i + "!");
 
